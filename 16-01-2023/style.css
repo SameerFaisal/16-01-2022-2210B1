@@ -1,0 +1,13 @@
+.myDiv{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+}
+.fa-car{
+    color: crimson;
+    font-size:200px !important;
+}
+.fa-user:hover{
+    color: blue;
+    font-size: 420px !important;
+}
